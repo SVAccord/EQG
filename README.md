@@ -1,2 +1,2 @@
-# ISG
- Insensitivity groups analisis
+# EQG
+ Equivalency groups/Insensitivity groups analisis
